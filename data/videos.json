@@ -8,16 +8,7 @@
       { "id": "DHWccFfPswE", "title": "ICDS Supplementary nutrition, Nuapada (Odisha)" }
     ]
   },
-    {
-    "district": "Batauli",
-    "lat": 22.9807,
-    "lng": 83.4137,
-    "scheme": "NREGA",
-    "videos": [
-      { "id": "OeWZEFOxCFo", "title": "Dabri (water harvesting structure) created through NREGA" }
-    ]
-  },
-  {
+   {
     "district": "Ganjam",
     "lat": 19.3871,
     "lng": 85.052,
