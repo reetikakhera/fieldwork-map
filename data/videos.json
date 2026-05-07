@@ -8,6 +8,15 @@
       { "id": "DHWccFfPswE", "title": "ICDS Supplementary nutrition, Nuapada (Odisha)" }
     ]
   },
+    {
+    "district": "Shimla",
+    "lat": 31.1048,
+    "lng": 77.1734,
+    "scheme": "PDS",
+    "videos": [
+      { "id": "OeWZEFOxCFo", "title": "PDS outlet in Shimla" }
+    ]
+  },
   {
     "district": "Ganjam",
     "lat": 19.3871,
