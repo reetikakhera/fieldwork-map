@@ -970,5 +970,14 @@
     "videos": [
       { "id": "13vZVKPbr0g", "title": "Old man and his wife try to make the transition to Aadhaar pensions through banks" }
     ]
-  }
+  },
+  {
+    "district": "Ambikapur",
+    "lat": 23.1189,
+    "lng": 83.1954,
+    "scheme": "NREGA",
+    "videos": [
+      { "id": "OeWZEFOxCFo", "title": "Water harvesting structure through NREGA" }
+    ]
+  },
 ]
