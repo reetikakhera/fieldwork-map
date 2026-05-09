@@ -774,7 +774,7 @@
     ]
   },
   {
-    "district": "Tumakuru",
+    "district": "Tumkuru",
     "lat": 12.44,
     "lng": 76.21,
     "scheme": "MDM",
@@ -970,5 +970,23 @@
     "videos": [
       { "id": "13vZVKPbr0g", "title": "Old man and his wife try to make the transition to Aadhaar pensions through banks" }
     ]
-  } 
+  },
+  {
+    "district": "Ambikapur",
+    "lat": 23.1189,
+    "lng": 83.1954,
+    "scheme": "NREGA",
+    "videos": [
+      { "id": "OeWZEFOxCFo", "title": "Water harvesting structure through NREGA" }
+    ]
+  },
+  {
+    "district": "Nuh",
+    "lat": 28.1024,
+    "lng": 77.0011,
+    "scheme": "MDM",
+    "videos": [
+      { "id": "k_4jYdlQYeI", "title": "Kitchen garden for MDM in Nuh" }
+    ]
+  }
 ]
