@@ -639,6 +639,69 @@
     ]
   },
   {
+    "district": "Udaipur",
+    "lat": 24.2,
+    "lng": 73.65,
+    "scheme": "Urban EGA",
+    "videos": [
+      { "id": "qFafQqJ6DUI", "title": "Ruksana, an urban EGA worker in Udaipur" }
+    ]
+  },
+  {
+    "district": "Udaipur",
+    "lat": 24.2,
+    "lng": 73.65,
+    "scheme": "Urban EGA",
+    "videos": [
+      { "id": "dMoJRhCLjCE", "title": "Bharti, an urban EGA worker in Udaipur" }
+    ]
+  },
+  {
+    "district": "Udaipur",
+    "lat": 24.2,
+    "lng": 73.65,
+    "scheme": "Urban EGA",
+    "videos": [
+      { "id": "_Pide4h8rgk", "title": "Urban EGA workers in Udaipur" }
+    ]
+  },
+  {
+    "district": "Trivandrum",
+    "lat": 8.5241,
+    "lng": 76.9366,
+    "scheme": "Urban EGA",
+    "videos": [
+      { "id": "_Pide4h8rgk", "title": "Ayankalli worksite in Trivandrum" }
+    ]
+  },
+    {
+    "district": "Trivandrum",
+    "lat": 8.5241,
+    "lng": 76.9366,
+    "scheme": "Urban EGA",
+    "videos": [
+      { "id": "fSNGnxShmbc", "title": "Urban agriculture, Urban EGA (Ayankalli) worksite in Trivandrum" }
+    ]
+  },
+  {
+    "district": "Trivandrum",
+    "lat": 8.5241,
+    "lng": 76.9366,
+    "scheme": "Urban EGA",
+    "videos": [
+      { "id": "hF5uNKNRIf0", "title": "Canal cleaning, Urban EGA (Ayankalli) worksite in Trivandrum" }
+    ]
+  },
+    {
+    "district": "Trivandrum",
+    "lat": 8.5241,
+    "lng": 76.9366,
+    "scheme": "Urban EGA",
+    "videos": [
+      { "id": "sMrOX3VVZ3I", "title": "Urban EGA (Ayankalli) workers in Trivandrum" }
+    ]
+  },
+  {
     "district": "Nuh",
     "lat": 27.54,
     "lng": 77.10,
