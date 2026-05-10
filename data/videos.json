@@ -116,6 +116,15 @@
       { "id": "L5nQNdXbeNA", "title": "Pre-school education and food, Anganwadi Aysampatti (Trichy, Tamil Nadu)" }
     ]
   },
+     {
+    "district": "Chengalpattu",
+    "lat": 19.3871,
+    "lng": 85.052,
+    "scheme": "ICDS",
+    "videos": [
+      { "id": "GvOBbYfrpIc", "title": "Hot cooked food at an anganwadi" }
+    ]
+  },
   {
     "district": "Nuh",
     "lat": 28.12,
@@ -199,8 +208,8 @@
   },
   {
     "district": "Chhapra",
-    "lat": 25.7811,
-    "lng": 84.7543,
+    "lat": 24.1,
+    "lng": 72.25,
     "scheme": "ICDS",
     "videos": [
       { "id": "-Jci1bTRzqY", "title": "Children's second meal of the day at the Chhapra anganwadi Gujarat" }
@@ -213,6 +222,15 @@
     "scheme": "ICDS",
     "videos": [
       { "id": "Qx1MmI21cKA", "title": "Eggs" }
+    ]
+  },
+    {
+    "district": "Bangalore (Rural)",
+    "lat": 13.3,
+    "lng": 77.54,
+    "scheme": "ICDS",
+    "videos": [
+      { "id": "zHZmEIh26X8", "title": "PSE song motor and verbal coordination exercise " }
     ]
   },
   {
